@@ -1,6 +1,6 @@
 # Типичные названия классов в CSS 📝
 
-## Основные:
+## Основные
 
 head, header
 sidebar
@@ -11,7 +11,7 @@ content, cnt
 column, col
 breadcrumbs
 
-## Название блока (обёртка):
+## Название блока (обёртка)
 
 banner
 block
@@ -20,7 +20,8 @@ container
 map
 inner
 wrap, wrapper
-Списки
+
+## Списки
 
 list
 item
@@ -50,7 +51,8 @@ s, small
 md, medium
 lg, large, big
 xl, extra-large
-Состояния(цвет)
+
+## Состояния (цвет)
 
 danger
 default
@@ -58,7 +60,8 @@ error
 primary
 success
 warning
-Кнопки
+
+## Кнопки
 
 arrow
 back, backward
